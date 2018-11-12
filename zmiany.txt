@@ -1,11 +1,11 @@
-*** output1.txt	2018-11-12 01:29:32.813986056 +0100
---- output2.txt	2018-11-12 01:29:35.533988957 +0100
+*** output1.txt	2018-11-12 02:35:40.066812849 +0100
+--- output2.txt	2018-11-12 02:35:42.806815789 +0100
 ***************
 *** 6,12 ****
   
    
   Aktualny czas w Opole, Polska:
-! 01:29:32
+! 02:35:39
   
   Zegar nie tyka ponieważ obsługa JavaScrip nie jest dostępna lub została
   wyłączona w przeglądarce.
@@ -13,7 +13,64 @@
   
    
   Aktualny czas w Opole, Polska:
-! 01:29:35
+! 02:35:42
+  
+  Zegar nie tyka ponieważ obsługa JavaScrip nie jest dostępna lub została
+  wyłączona w przeglądarce.
+*** output1.txt	2018-11-12 02:35:43.582816625 +0100
+--- output2.txt	2018-11-12 02:35:46.314819573 +0100
+***************
+*** 6,12 ****
+  
+   
+  Aktualny czas w Opole, Polska:
+! 02:35:43
+  
+  Zegar nie tyka ponieważ obsługa JavaScrip nie jest dostępna lub została
+  wyłączona w przeglądarce.
+--- 6,12 ----
+  
+   
+  Aktualny czas w Opole, Polska:
+! 02:35:46
+  
+  Zegar nie tyka ponieważ obsługa JavaScrip nie jest dostępna lub została
+  wyłączona w przeglądarce.
+*** output1.txt	2018-11-12 02:35:47.042820360 +0100
+--- output2.txt	2018-11-12 02:35:49.766823316 +0100
+***************
+*** 6,12 ****
+  
+   
+  Aktualny czas w Opole, Polska:
+! 02:35:46
+  
+  Zegar nie tyka ponieważ obsługa JavaScrip nie jest dostępna lub została
+  wyłączona w przeglądarce.
+--- 6,12 ----
+  
+   
+  Aktualny czas w Opole, Polska:
+! 02:35:49
+  
+  Zegar nie tyka ponieważ obsługa JavaScrip nie jest dostępna lub została
+  wyłączona w przeglądarce.
+*** output1.txt	2018-11-12 02:35:50.490824103 +0100
+--- output2.txt	2018-11-12 02:35:53.218827081 +0100
+***************
+*** 6,12 ****
+  
+   
+  Aktualny czas w Opole, Polska:
+! 02:35:50
+  
+  Zegar nie tyka ponieważ obsługa JavaScrip nie jest dostępna lub została
+  wyłączona w przeglądarce.
+--- 6,12 ----
+  
+   
+  Aktualny czas w Opole, Polska:
+! 02:35:53
   
   Zegar nie tyka ponieważ obsługa JavaScrip nie jest dostępna lub została
   wyłączona w przeglądarce.
