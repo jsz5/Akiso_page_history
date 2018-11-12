@@ -1,11 +1,11 @@
-*** output1.txt	2018-11-12 03:34:00.113344986 +0100
---- output2.txt	2018-11-12 03:34:02.893340421 +0100
+*** output1.txt	2018-11-12 03:36:06.597182382 +0100
+--- output2.txt	2018-11-12 03:36:09.345179792 +0100
 ***************
 *** 6,12 ****
   
    
   Aktualny czas w Opole, Polska:
-! 03:33:59
+! 03:36:06
   
   Zegar nie tyka ponieważ obsługa JavaScrip nie jest dostępna lub została
   wyłączona w przeglądarce.
@@ -13,48 +13,7 @@
   
    
   Aktualny czas w Opole, Polska:
-! 03:34:02
+! 03:36:09
   
   Zegar nie tyka ponieważ obsługa JavaScrip nie jest dostępna lub została
   wyłączona w przeglądarce.
-***************
-*** 15,33 ****
-  Słońce: ↑ 06:59 ↓ 16:06 (9h 7min) Więcej informacji
-  
-    • Tokio
-!     11:33
-    • Pekin
-!     10:33
-    • Moskwa
-!     05:33
-    • Paryż
-!     03:33
-    • Londyn
-!     02:33
-    • Nowy Jork
-!     21:33
-    • Los Angeles
-!     18:33
-  
-  Udostępnij tę stronę!
-  Amsterdam Antalya Bagdad Bangkok Barcelona Bogota Boston Bruksela Chicago Delhi
---- 15,33 ----
-  Słońce: ↑ 06:59 ↓ 16:06 (9h 7min) Więcej informacji
-  
-    • Tokio
-!     11:34
-    • Pekin
-!     10:34
-    • Moskwa
-!     05:34
-    • Paryż
-!     03:34
-    • Londyn
-!     02:34
-    • Nowy Jork
-!     21:34
-    • Los Angeles
-!     18:34
-  
-  Udostępnij tę stronę!
-  Amsterdam Antalya Bagdad Bangkok Barcelona Bogota Boston Bruksela Chicago Delhi
