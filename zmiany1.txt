@@ -1,11 +1,11 @@
-*** output1.txt	2018-11-12 03:41:01.981079839 +0100
---- output2.txt	2018-11-12 03:41:04.725080260 +0100
+*** output1.txt	2018-11-12 03:47:29.517300503 +0100
+--- output2.txt	2018-11-12 03:47:32.265302970 +0100
 ***************
 *** 6,12 ****
   
    
   Aktualny czas w Opole, Polska:
-! 03:41:01
+! 03:47:29
   
   Zegar nie tyka ponieważ obsługa JavaScrip nie jest dostępna lub została
   wyłączona w przeglądarce.
@@ -13,7 +13,7 @@
   
    
   Aktualny czas w Opole, Polska:
-! 03:41:04
+! 03:47:32
   
   Zegar nie tyka ponieważ obsługa JavaScrip nie jest dostępna lub została
   wyłączona w przeglądarce.
