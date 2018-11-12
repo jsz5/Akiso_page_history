@@ -1,0 +1,27 @@
+*** output1.txt	2018-11-12 22:13:34.039237765 +0100
+--- output2.txt	2018-11-12 22:13:37.711265731 +0100
+***************
+*** 136,146 ****
+      regardless of the outcome of the if statement.
+  
+   1. ./if_example.sh 15
+!  2. Mon 12 Nov 15:13:33 2018
+   3. ./if_example.sh 150
+   4. Hey that's a large number.
+   5. /home/ryan/bin
+!  6. Mon 12 Nov 15:13:33 2018
+   7.
+  
+  It is always good practice to test your scripts with input that covers the
+--- 136,146 ----
+      regardless of the outcome of the if statement.
+  
+   1. ./if_example.sh 15
+!  2. Mon 12 Nov 15:13:37 2018
+   3. ./if_example.sh 150
+   4. Hey that's a large number.
+   5. /home/ryan/bin
+!  6. Mon 12 Nov 15:13:37 2018
+   7.
+  
+  It is always good practice to test your scripts with input that covers the
